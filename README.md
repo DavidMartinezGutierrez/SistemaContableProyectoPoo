@@ -129,7 +129,7 @@ Base de datos `bd_veterinaria` (SQLite) con cuatro tablas, cada una con su llave
 1. Descargar y descomprimir el proyecto (o clonar el repositorio):
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/DavidMartinezGutierrez/SistemaContableProyectoPoo>
    ```
 
 2. En NetBeans: **File > Open Project...** y seleccionar la carpeta `GestionVeterinariaMVC`.
